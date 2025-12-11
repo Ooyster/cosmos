@@ -5,7 +5,7 @@ The original **Cosmos Transfer** operated on a Client-Server architecture. This 
 
 ## ✨ Key Features
 * **Simplified Architecture**: Converted from Client-Server to a direct execution model.
-* **Docker Integration**: Supports a "Build Once, Run Anywhere" workflow.
-* **Portable Deployment**: The Docker image can be deployed across different machines instantly without the need for redeployment or environment reconfiguration.
+* **Portable Deployment**: Supports a "Build Once, Run Anywhere" workflow.The Docker image can be deployed across different machines instantly without the need for redeployment or environment reconfiguration.
+* **Enhanced Pipeline Flexibility**: Key files are mounted externally, offering a higher degree of freedom to modify the pipeline logic.
 
   
